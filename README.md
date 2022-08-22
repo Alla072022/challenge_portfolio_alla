@@ -60,7 +60,7 @@ as well as practice in the work of a tester.
 
 button_xpath="//*[contains(@class, "MuiButton-label")]"
 
- class LoginPage(BasePage):
+ **class LoginPage(BasePage):**
  
      login_field_xpath = "//*[@id='login']"
      
